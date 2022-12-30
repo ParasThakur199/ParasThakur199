@@ -20,11 +20,11 @@
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1LgwVOH59_bhQimF_WYnF81bQ2864WFJD/view?usp=sharing
 
-- 📂 PortFolio 
+- 📂 PortFolio :
 
-- 👉 Medium :
+- 👉 Medium : https://medium.com/@parasjamwal19
 
-- 👩‍💻 Netlify : 
+- 👩‍💻 Netlify : https://app.netlify.com/teams/parasthakur199
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parasthakur199" alt="parasthakur199" /></a> </p>
