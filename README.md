@@ -51,9 +51,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasthakur199&show_icons=true&locale=en&layout=compact" alt="parasthakur199" /></p>
 
-<hr/>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasthakur199&show_icons=true&locale=en" alt="parasthakur199" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parasthakur199&" alt="parasthakur199" /></p>
+
+
+
+<img src="https://camo.githubusercontent.com/98c70ede3cd9cb49abef16523049aa4bc5960bbc17860f1d6c5894d7849ad255/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76685671476b78445978416152624f5756702f67697068792e6769663f6369643d65636630356534376e3476366f6868613870353472366e36336637647130756a30673334786530786e6a70757334356b267269643d67697068792e6769662663743d67"/>
+
