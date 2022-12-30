@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Paras jamwal</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<img  height="6px" src="https://user-images.githubusercontent.com/96183163/189266579-508224d8-692c-4e35-aa8d-6bdd59c10e0a.gif" width="100%" />
+<h1 align="center">Hii <img  src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="70px"  />  , I'm Paras Jamwal</h1>
+
+<div width="80%" margin="auto" >
+<h3>I'm a passionate learner who's always willing to explore new technology and applied to solve real-life problems, working on web devlopment, Data Structures and Algorithms.</h3>
+
+</div>
+<p align="center">
+<img  align="center" width="100%" src="https://stickers.vidio.com/packs/146-jayaprogrammer/jayaprogrammer02.gif"></p>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasthakur199&label=Profile%20views&color=0e75b6&style=flat" alt="parasthakur199" /> </p>
 
