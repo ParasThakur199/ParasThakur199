@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-<img  align="center" width="100%" src="https://stickers.vidio.com/packs/146-jayaprogrammer/jayaprogrammer02.gif"></p>
+<img  align="center" width="100%" height="100px" src="https://stickers.vidio.com/packs/146-jayaprogrammer/jayaprogrammer02.gif"></p>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasthakur199&label=Profile%20views&color=0e75b6&style=flat" alt="parasthakur199" /> </p>
