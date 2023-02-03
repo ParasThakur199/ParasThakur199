@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences: https://drive.google.com/file/d/1LgwVOH59_bhQimF_WYnF81bQ2864WFJD/view?usp=sharing
 
-- 📂 PortFolio : 'https://parasthakur199.github.io/'
+- 📂 PortFolio : https://parasthakur199.github.io/
 
 - 👉 Medium : https://medium.com/@parasjamwal19
 
@@ -31,7 +31,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>  parasjamwal19@gmail.com 
+<h3 align="left">Connect with me:  parasjamwal19@gmail.com </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/paras jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras jamwal" height="30" width="40" /></a>
