@@ -38,9 +38,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://propiece.s3-ap-northeast-1.amazonaws.com/article_image/20191009015619-00000280-19rqbedu9mbg6xm8o6d7q9a.png" alt="bootstrap" width="50" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://images.velog.io/images/hdy20201004/post/e247016f-6a50-4d26-9204-15cd77b6dcb3/git_logo.png" alt="git" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-11664330368ddgc1rombr.png" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
