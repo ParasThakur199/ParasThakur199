@@ -39,15 +39,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="70" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <img src="https://epsagon.com/wp-content/uploads/2020/12/logo-spring-boot.jpg" alt="spring" width="80" height="80"/> </a> <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"></a> 
+  <a href="https://hibernate.org/orm/documentation/6.1/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgStrjWPRQQdXJ7NOLstNMHXBoNCoN10Efg&usqp=CAU" alt="hibernate" width="60" height="60"/> </a>
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css3" width="70" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://images.velog.io/images/hdy20201004/post/e247016f-6a50-4d26-9204-15cd77b6dcb3/git_logo.png" alt="git" width="50" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-11664330368ddgc1rombr.png" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="70" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://epsagon.com/wp-content/uploads/2020/12/logo-spring-boot.jpg" alt="spring" width="80" height="80"/> </a> <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"></a> 
-  <a href="https://hibernate.org/orm/documentation/6.1/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgStrjWPRQQdXJ7NOLstNMHXBoNCoN10Efg&usqp=CAU" alt="hibernate" width="60" height="60"/> </a> </p>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasthakur199&show_icons=true&locale=en&layout=compact" alt="parasthakur199" /></p>
 
