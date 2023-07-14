@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **parasjamwal19@gmail.com**
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1LgwVOH59_bhQimF_WYnF81bQ2864WFJD/view?usp=sharing
+- 📄 Know about my experiences: https://drive.google.com/file/d/1wB_u_lD00FEw0b0CwKGRRcSiP5lR1vEw/view?usp=sharing
 
 - 📂 PortFolio : https://parasthakur199.github.io/
 
