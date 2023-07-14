@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:  parasjamwal19@gmail.com </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paras-jamwal-311136247/" target="blank"><img align="center" src="https://img.icons8.com/color/1x/linkedin.png" alt="paras jamwal" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/paras-thakur-bb175519a/" target="blank"><img align="center" src="https://img.icons8.com/color/1x/linkedin.png" alt="paras jamwal" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
